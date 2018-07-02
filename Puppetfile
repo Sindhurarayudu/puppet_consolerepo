@@ -18,7 +18,7 @@ mod 'puppetlabs/java',         '1.6.0'
 
 mod 'profile',
  :git => 'git@github.com:Sindhurarayudu/puppet_profile.git',
- :ref: 'master'
+ :ref => 'master'
 
 mod 'role',
  :git => 'git@github.com:Sindhurarayudu/puppet_role.git',
