@@ -15,3 +15,15 @@ mod 'puppetlabs/java',         '1.6.0'
 #mod 'apache',
 #  :git    => 'https://github.com/puppetlabs/puppetlabs-apache',
 #  :branch => 'docs_experiment'
+
+mod 'profile',
+ :git => 'git@github.com:Sindhurarayudu/puppet_profile.git',
+ :ref: 'master'
+
+mod 'role',
+ :git => 'git@github.com:Sindhurarayudu/puppet_role.git',
+ :ref => 'master'
+
+mod 'ngnix',
+ :git => 'git@github.com:Sindhurarayudu/puppet_module_ngnix.git',
+ :ref => 'master'
