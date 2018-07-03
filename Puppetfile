@@ -27,3 +27,7 @@ mod 'role',
 mod 'ngnix',
  :git => 'git@github.com:Sindhurarayudu/puppet_module_ngnix.git',
  :ref => 'master'
+
+mod 'ntp',
+ :git => 'git@github.com:Sindhurarayudu/puppet_ntp.git',
+ :ref => 'master'
